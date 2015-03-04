@@ -69,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/knapsack01.cxx">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="33" />
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -77,11 +77,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unbounded_knapsack.cxx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="unbounded_knapsack.cxx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unbounded_knapsack.cxx">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7659805">
-              <caret line="47" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lcs.cxx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lcs.cxx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.52654386">
+              <caret line="27" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -120,6 +132,7 @@
         <option value="$PROJECT_DIR$/reverse_order.cxx" />
         <option value="$PROJECT_DIR$/knapsack01.cxx" />
         <option value="$PROJECT_DIR$/unbounded_knapsack.cxx" />
+        <option value="$PROJECT_DIR$/lcs.cxx" />
       </list>
     </option>
   </component>
@@ -413,14 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/restaurant.cxx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/multiple.h">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -429,20 +434,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knapsack01.cxx">
+    <entry file="file://$PROJECT_DIR$/unbounded_knapsack.cxx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="33" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unbounded_knapsack.cxx">
+    <entry file="file://$PROJECT_DIR$/knapsack01.cxx">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7659805">
-          <caret line="47" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant.cxx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lcs.cxx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52654386">
+          <caret line="27" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
